@@ -133,3 +133,9 @@ http://ivi.bupt.edu.cn/hls/chchd.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1  group-title="CHC",CCTV4K
 https://hls.cntv.baishancdnx.cn/asp/hls/8000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/8000.m3u8
+#EXTINF:-1  group-title="CHC",动作电影
+p2p://fccsovh.pvbox.live:18912/5b14092b0002d180763468c36165ab20.ts
+#EXTINF:-1  group-title="CHC",家庭影院
+p2p://fccsovh.pvbox.live:18912/5b14092b0004ba237cc7d6f16b586064.ts
+#EXTINF:-1  group-title="CHC",高清电影
+p2p://fccsovh.pvbox.live:18912/5b140953000b29efe182d564fc838b15.ts
