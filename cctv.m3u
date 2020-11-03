@@ -1,129 +1,129 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-1 HD
+#EXTINF:-1 group-title="央视",CCTV-1 HD
 http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
-#EXTINF:-1 ,CCTV-2蓝光
+#EXTINF:-1 group-title="央视",CCTV-2蓝光
 http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
-#EXTINF:-1 ,CCTV-3 HD
+#EXTINF:-1 group-title="央视",CCTV-3 HD
 http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
-#EXTINF:-1 ,CCTV-4 HD
+#EXTINF:-1 group-title="央视",CCTV-4 HD
 http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
-#EXTINF:-1 ,CCTV-5 HD
+#EXTINF:-1 group-title="央视",CCTV-5 HD
 http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
-#EXTINF:-1 ,CCTV-5+HD
+#EXTINF:-1 group-title="央视",CCTV-5+HD
 http://liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
-#EXTINF:-1 ,CCTV-6 HD
+#EXTINF:-1 group-title="央视",CCTV-6 HD
 http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8
-#EXTINF:-1 ,CCTV-7 HD
+#EXTINF:-1 group-title="央视",CCTV-7 HD
 http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
-#EXTINF:-1 ,CCTV-8 HD
+#EXTINF:-1 group-title="央视",CCTV-8 HD
 http://liveplay-kk.rtxapp.com/live/program/live/cctv8hd/4000000/mnf.m3u8
-#EXTINF:-1 ,CCTV-9 HD
+#EXTINF:-1 group-title="央视",CCTV-9 HD
 http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
-#EXTINF:-1 ,CCTV-10 HD
+#EXTINF:-1 group-title="央视",CCTV-10 HD
 http://liveplay-kk.rtxapp.com/live/program/live/cctv10hd/4000000/mnf.m3u8
-#EXTINF:-1 ,CCTV-11 HD
+#EXTINF:-1 group-title="央视",CCTV-11 HD
 http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
-#EXTINF:-1 ,CCTV-12 HD
+#EXTINF:-1 group-title="央视",CCTV-12 HD
 http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
-#EXTINF:-1 ,CCTV-13 HD
+#EXTINF:-1 group-title="央视",CCTV-13 HD
 http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
-#EXTINF:-1 ,CCTV-14 HD
+#EXTINF:-1 group-title="央视",CCTV-14 HD
 http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
-#EXTINF:-1 ,CCTV-15 HD
+#EXTINF:-1 group-title="央视",CCTV-15 HD
 http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 ,CCTV-16 HD
+#EXTINF:-1 group-title="央视",CCTV-16 HD
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1 ,CCTV-17 HD
+#EXTINF:-1 group-title="央视",CCTV-17 HD
 http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
-#EXTINF:-1 ,北京纪实 HD
+#EXTINF:-1 group-title="卫视",北京纪实 HD
 http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
-#EXTINF:-1 ,湖南卫视 HD
+#EXTINF:-1 group-title="卫视",湖南卫视 HD
 http://liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8
-#EXTINF:-1 ,江苏卫视 HD
+#EXTINF:-1 group-title="卫视",江苏卫视 HD
 http://liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
-#EXTINF:-1 ,浙江卫视 HD
+#EXTINF:-1 group-title="卫视",浙江卫视 HD
 http://liveplay-kk.rtxapp.com/live/program/live/zjwshd/4000000/mnf.m3u8
-#EXTINF:-1 ,上海东方 HD
+#EXTINF:-1 group-title="卫视",上海东方 HD
 http://112.50.243.8/PLTV/88888888/224/3221225936/1.m3u8
-#EXTINF:-1 ,北京卫视 HD
+#EXTINF:-1 group-title="卫视",北京卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225937/1.m3u8
-#EXTINF:-1 ,广东卫视 HD
+#EXTINF:-1 group-title="卫视",广东卫视 HD
 http://liveplay-kk.rtxapp.com/live/program/live/gdwshd/4000000/mnf.m3u8
-#EXTINF:-1 ,深圳卫视 HD
+#EXTINF:-1 group-title="卫视",深圳卫视 HD
 http://liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
-#EXTINF:-1 ,天津卫视 HD
+#EXTINF:-1 group-title="卫视",天津卫视 HD
 http://liveplay-kk.rtxapp.com/live/program/live/tjwshd/4000000/mnf.m3u8
-#EXTINF:-1 ,安徽卫视 HD
+#EXTINF:-1 group-title="卫视",安徽卫视 HD
 http://liveplay-kk.rtxapp.com/live/program/live/ahwshd/4000000/mnf.m3u8
-#EXTINF:-1 ,山东卫视 HD
+#EXTINF:-1 group-title="卫视",山东卫视 HD
 http://liveplay-kk.rtxapp.com/live/program/live/sdwshd/4000000/mnf.m3u8
-#EXTINF:-1 ,湖北卫视 HD
+#EXTINF:-1 group-title="卫视",湖北卫视 HD
 http://liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mnf.m3u8
-#EXTINF:-1 ,辽宁卫视 HD
+#EXTINF:-1 group-title="卫视",辽宁卫视 HD
 http://liveplay-kk.rtxapp.com/live/program/live/lnwshd/4000000/mnf.m3u8
-#EXTINF:-1 ,重庆卫视 HD
+#EXTINF:-1 group-title="卫视",重庆卫视 HD
 http://qxlmlive.cbg.cn:1935/app_2/ls_67.stream/chunklist.m3u8
-#EXTINF:-1 ,江西卫视 HD
+#EXTINF:-1 group-title="卫视",江西卫视 HD
 http://liveplay-kk.rtxapp.com/live/program/live/jxwshd/4000000/mnf.m3u8
-#EXTINF:-1 ,河北卫视 HD
+#EXTINF:-1 group-title="卫视",河北卫视 HD
 http://weblive.hebtv.com/live/hbws_bq/index.m3u8
-#EXTINF:-1 ,贵州卫视 HD
+#EXTINF:-1 group-title="卫视",贵州卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221226827/1.m3u8
-#EXTINF:-1 ,四川卫视 HD
+#EXTINF:-1 group-title="卫视",四川卫视 HD
 http://scgctvshow.sctv.com/scgc/sctv1deu5453w/index.m3u8
-#EXTINF:-1 ,河南卫视 HD
+#EXTINF:-1 group-title="卫视",河南卫视 HD
 http://112.17.40.140/PLTV/88888888/224/3221226130/index.m3u8
-#EXTINF:-1 ,广西卫视 HD
+#EXTINF:-1 group-title="卫视",广西卫视 HD
 http://liveplay-kk.rtxapp.com/live/program/live/gxws/1300000/mnf.m3u8
-#EXTINF:-1 ,吉林卫视 HD
+#EXTINF:-1 group-title="卫视",吉林卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225851/1.m3u8
-#EXTINF:-1 ,海南卫视 HD
+#EXTINF:-1 group-title="卫视",海南卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
-#EXTINF:-1 ,厦门卫视 HD
+#EXTINF:-1 group-title="卫视",厦门卫视 HD
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226093/2.m3u8
-#EXTINF:-1 ,东南卫视 HD
+#EXTINF:-1 group-title="卫视",东南卫视 HD
 http://112.50.243.8/PLTV/88888888/224/3221225833/1.m3u8
-#EXTINF:-1 ,黑龙江卫视 HD
+#EXTINF:-1 group-title="卫视",黑龙江卫视 HD
 http://liveplay-kk.rtxapp.com/live/program/live/hljwshd/4000000/mnf.m3u8
-#EXTINF:-1 ,凤凰中文 HD
+#EXTINF:-1 group-title="卫视",凤凰中文 HD
 http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
-#EXTINF:-1 ,凤凰资讯 HD
+#EXTINF:-1 group-title="卫视",凤凰资讯 HD
 http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-#EXTINF:-1 ,凤凰香港 HD
+#EXTINF:-1 group-title="卫视",凤凰香港 HD
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 ,香港卫视
+#EXTINF:-1 group-title="卫视",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 ,BesTV4K UHD
+#EXTINF:-1 group-title="4K",BesTV4K UHD
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 ,Newtv动作电影
+#EXTINF:-1 group-title="NewTv",Newtv动作电影
 http://112.17.40.140/PLTV/88888888/224/3221226747/index.m3u8
-#EXTINF:-1 ,Newtv惊悚悬疑
+#EXTINF:-1 group-title="NewTv",Newtv惊悚悬疑
 http://112.50.243.8/PLTV/88888888/224/3221225885/1.m3u8
-#EXTINF:-1 ,Newtv明星大片
+#EXTINF:-1 group-title="NewTv",Newtv明星大片
 http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 ,Newtv家庭剧场
+#EXTINF:-1 group-title="NewTv",Newtv家庭剧场
 http://112.50.243.8/PLTV/88888888/224/3221225882/1.m3u8
-#EXTINF:-1 ,Newtv精品大剧
+#EXTINF:-1 group-title="NewTv",Newtv精品大剧
 http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
-#EXTINF:-1 ,Newtv古装剧场
+#EXTINF:-1 group-title="NewTv",Newtv古装剧场
 http://112.50.243.8/PLTV/88888888/224/3221225880/1.m3u8
-#EXTINF:-1 ,Newtv爱情喜剧
+#EXTINF:-1 group-title="NewTv",Newtv爱情喜剧
 http://112.50.243.8/PLTV/88888888/224/3221225877/1.m3u8
-#EXTINF:-1 ,Newtv军旅剧场
+#EXTINF:-1 group-title="NewTv",Newtv军旅剧场
 http://112.50.243.8/PLTV/88888888/224/3221225887/1.m3u8
-#EXTINF:-1 ,Newtv军事评论
+#EXTINF:-1 group-title="NewTv",Newtv军事评论
 http://112.17.40.140/PLTV/88888888/224/3221226658/index.m3u8
-#EXTINF:-1 ,Newtv金牌综艺
+#EXTINF:-1 group-title="NewTv",Newtv金牌综艺
 http://112.17.40.140/PLTV/88888888/224/3221226749/index.m3u8
-#EXTINF:-1 ,Newtv精品体育
+#EXTINF:-1 group-title="NewTv",Newtv精品体育
 http://112.17.40.140/PLTV/88888888/224/3221226819/index.m3u8
-#EXTINF:-1 ,Newtv精品记录
+#EXTINF:-1 group-title="NewTv",Newtv精品记录
 http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
-#EXTINF:-1 ,黑莓电影
+#EXTINF:-1 group-title="黑莓",黑莓电影
 http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
-#EXTINF:-1 ,黑莓电影
+#EXTINF:-1 group-title="黑莓",黑莓电影
 http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
-#EXTINF:-1 ,黑莓动画
+#EXTINF:-1 group-title="黑莓",黑莓动画
 http://112.50.243.8/PLTV/88888888/224/3221225878/1.m3u8
-#EXTINF:-1 ,黑莓动画
+#EXTINF:-1 group-title="黑莓",黑莓动画
 http://112.17.40.140/PLTV/88888888/224/3221226654/index.m3u8
