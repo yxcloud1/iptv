@@ -1,46 +1,161 @@
-#EXTINF:-1,电影1
-http://520574.xyz/dl/youku.php?id=8022366
-#EXTINF:-1,电影10
-http://520574.xyz/dl/youku.php?id=8031620
-#EXTINF:-1,电影11
-http://520574.xyz/dl/youku.php?id=8031623
-#EXTINF:-1,电影13
-http://520574.xyz/dl/youku.php?id=8031592
-#EXTINF:-1,电影14
-http://520574.xyz/dl/youku.php?id=8031589
-#EXTINF:-1,电影15
-http://520574.xyz/dl/youku.php?id=8031587
-#EXTINF:-1,电影16
-http://520574.xyz/dl/youku.php?id=8031580
-#EXTINF:-1,电影17
-http://520574.xyz/dl/youku.php?id=8031574
-#EXTINF:-1,电影19
-http://520574.xyz/dl/youku.php?id=8027873
-#EXTINF:-1,电影2
-http://520574.xyz/dl/youku.php?id=8022040
-#EXTINF:-1,电影22
-http://520574.xyz/dl/youku.php?id=8020409
-#EXTINF:-1,电影23
-http://520574.xyz/dl/youku.php?id=8020410
-#EXTINF:-1,电影24
-http://520574.xyz/dl/youku.php?id=8020408
-#EXTINF:-1,电影25
-http://520574.xyz/dl/youku.php?id=8035190
-#EXTINF:-1,电影3
-http://520574.xyz/dl/youku.php?id=8022038
-#EXTINF:-1,电影4
-http://520574.xyz/dl/youku.php?id=8020381
-#EXTINF:-1,电影5
-http://520574.xyz/dl/youku.php?id=8020331
-#EXTINF:-1,电影6
-http://520574.xyz/dl/youku.php?id=8018618
-#EXTINF:-1,电影7
-http://520574.xyz/dl/youku.php?id=8031710
-#EXTINF:-1,电影8
-http://520574.xyz/dl/youku.php?id=8031706
-#EXTINF:-1,电影9
-http://520574.xyz/dl/youku.php?id=8031704
-#EXTINF:-1,电影导视
-http://520574.xyz/dl/youku.php?id=8021972
-#EXTINF:-1,粤语片
+#EXTM3U
+#EXTINF:-1 ,爱经典
+http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,爱都市
+http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,歐美影院
+http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
+#EXTINF:-1 ,亞洲影院
+http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
+#EXTINF:-1 ,best电影
+http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,best电影2
+http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,best动画
+http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,Y+影院
+http://111.0.93.5/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,超级电影
+http://112.50.243.8/PLTV/88888888/224/3221225926/1.m3u8
+#EXTINF:-1 ,电视剧1台
+http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
+#EXTINF:-1 ,电视剧2台
+http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
+#EXTINF:-1 ,电视剧3台
+http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
+#EXTINF:-1 ,蓝光影视1台
+http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
+#EXTINF:-1 ,蓝光影视3台
+http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+#EXTINF:-1 ,蓝光影视4台
+http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
+#EXTINF:-1 ,蓝光影视5台
+http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1 ,蓝光动画13台
+http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
+#EXTINF:-1 ,蓝光动画14台
+http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
+#EXTINF:-1 ,蓝光动漫15台
+http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
+#EXTINF:-1 ,欢笑剧场蓝光
+http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
+#EXTINF:-1 ,北京纪实蓝光
+http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
+#EXTINF:-1 ,纪实频道蓝光
+http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
+#EXTINF:-1 ,极速汽车蓝光
+http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
+#EXTINF:-1 ,动漫秀场蓝光
+http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
+#EXTINF:-1 ,东方影视
+http://140.207.241.2:8080/live/program/live/dsjpdhd/2300000/mnf.m3u8
+#EXTINF:-1 ,亚视本港
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+#EXTINF:-1 ,影视剧场
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227372/index.m3u8
+#EXTINF:-1 ,UTV优视影院
+http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-youshiyy/index.m3u8?
+#EXTINF:-1 ,热播剧场
+http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-rebojuc/index.m3u8?
+#EXTINF:-1 ,UTV影视精选
+http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-dongzuody/index.m3u8?
+#EXTINF:-1 ,UTV家庭影院
+http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-jiatingjc/index.m3u8?
+#EXTINF:-1 ,求索一
+http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 ,求索二
+http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 ,求索三
+http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 ,求索四
+http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 ,欢笑剧场4K
+http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226144/3.m3u8
+#EXTINF:-1 ,G+经典剧场
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,G+谍战剧场
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,G+动画乐园
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225785/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,G+海外佳片
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,G+华语影院
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 ,粤语片
 http://520574.xyz/dl/youku.php?id=8019006
+#EXTINF:-1 ,电影导视
+http://520574.xyz/dl/youku.php?id=8021972
+#EXTINF:-1 ,电影1
+http://520574.xyz/dl/youku.php?id=8022366
+#EXTINF:-1 ,电影2
+http://520574.xyz/dl/youku.php?id=8022040
+#EXTINF:-1 ,电影3
+http://520574.xyz/dl/youku.php?id=8022038
+#EXTINF:-1 ,电影4
+http://520574.xyz/dl/youku.php?id=8020381
+#EXTINF:-1 ,电影5
+http://520574.xyz/dl/youku.php?id=8020331
+#EXTINF:-1 ,电影6
+http://520574.xyz/dl/youku.php?id=8018618
+#EXTINF:-1 ,电影7
+http://520574.xyz/dl/youku.php?id=8031710
+#EXTINF:-1 ,电影8
+http://520574.xyz/dl/youku.php?id=8031706
+#EXTINF:-1 ,电影9
+http://520574.xyz/dl/youku.php?id=8031704
+#EXTINF:-1 ,电影10
+http://520574.xyz/dl/youku.php?id=8031620
+#EXTINF:-1 ,电影11
+http://520574.xyz/dl/youku.php?id=8031623
+#EXTINF:-1 ,电影13
+http://520574.xyz/dl/youku.php?id=8031592
+#EXTINF:-1 ,电影14
+http://520574.xyz/dl/youku.php?id=8031589
+#EXTINF:-1 ,电影15
+http://520574.xyz/dl/youku.php?id=8031587
+#EXTINF:-1 ,电影16
+http://520574.xyz/dl/youku.php?id=8031580
+#EXTINF:-1 ,电影17
+http://520574.xyz/dl/youku.php?id=8031574
+#EXTINF:-1 ,电影19
+http://520574.xyz/dl/youku.php?id=8027873
+#EXTINF:-1 ,电影22
+http://520574.xyz/dl/youku.php?id=8020409
+#EXTINF:-1 ,电影23
+http://520574.xyz/dl/youku.php?id=8020410
+#EXTINF:-1 ,电影24
+http://520574.xyz/dl/youku.php?id=8020408
+#EXTINF:-1 ,电影25
+http://520574.xyz/dl/youku.php?id=8035190
+#EXTINF:-1 ,希望电视
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_1200_av-p.m3u8
+#EXTINF:-1 ,海爷TV动作
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/366214/live_199793349_7660540.m3u8
+#EXTINF:-1 ,海爷TV小新
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/293317/live_255137759_7132099.m3u8
+#EXTINF:-1 ,海爷TV9号厅
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/141477/live_82436982_2406441.m3u8
+#EXTINF:-1 ,电影高清2K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
+#EXTINF:-1 ,淮阳影视
+http://dlhdl-cdn.zhanqi.tv/zqlive/199301_y2bWG.flv
+#EXTINF:-1 ,功夫台
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/301200_QSU3A.m3u8
+#EXTINF:-1 ,怀旧经典
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/295519_JkFS8.m3u8
+#EXTINF:-1 ,TVB港剧一台
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+#EXTINF:-1 ,kk金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 ,蓝光影视16台
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 ,济阳影视
+http://jsylivealone302.iqilu.com/live/jiyang_tv02/index.m3u8
+#EXTINF:-1 ,河东影视
+http://jsylivealone302.iqilu.com/live/hedong_tv01/index.m3u8
+#EXTINF:-1 ,4k
+http://ltcucdn.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 ,峨眉电影
+http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
