@@ -11,7 +11,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
 http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+
 http://liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"  group-title="央视",CCTV-6å
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"  group-title="央视",CCTV-6
 http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7
 http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
@@ -34,8 +34,8 @@ http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17
-#EXTINF:-1  group-title="CCTV",CCTV4K
 https://hls.cntv.baishancdnx.cn/asp/hls/8000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/8000.m3u8
+#EXTINF:-1  group-title="央视",CCTV4K
 
 http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视" group-title="卫视",北京纪实
@@ -201,13 +201,13 @@ http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-bu
 http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-dongzuody/index.m3u8?
 #EXTINF:-1 ,UTV家庭影院
 http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-jiatingjc/index.m3u8?
-#EXTINF:-1 ,求索一
+#EXTINF:-1  group-title="探索" ,求索一
 http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 ,求索二
+#EXTINF:-1  group-title="探索",求索二
 http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 ,求索三
+#EXTINF:-1  group-title="探索",求索三
 http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 ,求索四
+#EXTINF:-1  group-title="探索",求索四
 http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 ,欢笑剧场4K
 http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226144/3.m3u8
@@ -267,35 +267,35 @@ http://520574.xyz/dl/youku.php?id=8020410
 http://520574.xyz/dl/youku.php?id=8020408
 #EXTINF:-1  group-title="电影" ,电影25
 http://520574.xyz/dl/youku.php?id=8035190
-#EXTINF:-1 ,希望电视
+#EXTINF:-1  group-title="电影" ,希望电视
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_1200_av-p.m3u8
-#EXTINF:-1 ,海爷TV动作
+#EXTINF:-1  group-title="电影" ,海爷TV动作
 https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/366214/live_199793349_7660540.m3u8
-#EXTINF:-1 ,海爷TV小新
+#EXTINF:-1  group-title="电影" ,海爷TV小新
 https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/293317/live_255137759_7132099.m3u8
-#EXTINF:-1 ,海爷TV9号厅
+#EXTINF:-1  group-title="电影" ,海爷TV9号厅
 https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/141477/live_82436982_2406441.m3u8
-#EXTINF:-1 ,电影高清2K
+#EXTINF:-1 group-title="电影" ,电影高清2K
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-#EXTINF:-1 ,淮阳影视
+#EXTINF:-1  group-title="电影" ,淮阳影视
 http://dlhdl-cdn.zhanqi.tv/zqlive/199301_y2bWG.flv
-#EXTINF:-1 ,功夫台
+#EXTINF:-1  group-title="电影" ,功夫台
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/301200_QSU3A.m3u8
-#EXTINF:-1 ,怀旧经典
+#EXTINF:-1  group-title="电影" ,怀旧经典
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/295519_JkFS8.m3u8
-#EXTINF:-1 ,TVB港剧一台
+#EXTINF:-1  group-title="电影" ,TVB港剧一台
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/123407_XhQs9.m3u8
-#EXTINF:-1 ,kk金马影院
+#EXTINF:-1  group-title="电影" ,kk金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 ,蓝光影视16台
+#EXTINF:-1  group-title="电影" ,蓝光影视16台
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 ,济阳影视
+#EXTINF:-1  group-title="电影" ,济阳影视
 http://jsylivealone302.iqilu.com/live/jiyang_tv02/index.m3u8
-#EXTINF:-1 ,河东影视
+#EXTINF:-1  group-title="电影" ,河东影视
 http://jsylivealone302.iqilu.com/live/hedong_tv01/index.m3u8
-#EXTINF:-1 ,4k
+#EXTINF:-1  group-title="电影" ,4k
 http://ltcucdn.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 ,峨眉电影
+#EXTINF:-1  group-title="电影" ,峨眉电影
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-#EXTINF:-1 ,香港卫视
+#EXTINF:-1  group-title="电影" ,香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
