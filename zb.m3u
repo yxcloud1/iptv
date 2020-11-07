@@ -1,4 +1,144 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
+http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2
+http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3
+http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4
+http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5
+http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+
+http://liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"  group-title="央视",CCTV-6å
+http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7
+http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8
+http://liveplay-kk.rtxapp.com/live/program/live/cctv8hd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9
+http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10
+http://liveplay-kk.rtxapp.com/live/program/live/cctv10hd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11
+http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12
+http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13
+http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14
+http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15
+http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17
+#EXTINF:-1  group-title="CCTV",CCTV4K
+https://hls.cntv.baishancdnx.cn/asp/hls/8000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/8000.m3u8
+
+http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="北京卫视" group-title="卫视",北京纪实
+http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",浙江卫视
+http://liveplay-kk.rtxapp.com/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",上海东方
+http://112.50.243.8/PLTV/88888888/224/3221225936/1.m3u8
+#EXTINF:-1 group-title="卫视",北京卫视
+http://112.50.243.8/PLTV/88888888/224/3221225937/1.m3u8
+#EXTINF:-1 group-title="卫视",广东卫视
+http://liveplay-kk.rtxapp.com/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",天津卫视
+http://liveplay-kk.rtxapp.com/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://liveplay-kk.rtxapp.com/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",山东卫视
+http://liveplay-kk.rtxapp.com/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",湖北卫视
+http://liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",辽宁卫视
+http://liveplay-kk.rtxapp.com/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://qxlmlive.cbg.cn:1935/app_2/ls_67.stream/chunklist.m3u8
+#EXTINF:-1 group-title="卫视",江西卫视
+http://liveplay-kk.rtxapp.com/live/program/live/jxwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",河北卫视
+http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+#EXTINF:-1 group-title="卫视",贵州卫视
+http://112.50.243.8/PLTV/88888888/224/3221226827/1.m3u8
+#EXTINF:-1 group-title="卫视",四川卫视
+http://scgctvshow.sctv.com/scgc/sctv1deu5453w/index.m3u8
+#EXTINF:-1 group-title="卫视",河南卫视
+http://112.17.40.140/PLTV/88888888/224/3221226130/index.m3u8
+#EXTINF:-1 group-title="卫视",广西卫视
+http://liveplay-kk.rtxapp.com/live/program/live/gxws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",吉林卫视
+http://112.50.243.8/PLTV/88888888/224/3221225851/1.m3u8
+#EXTINF:-1 group-title="卫视",海南卫视
+http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
+#EXTINF:-1 group-title="卫视",厦门卫视
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226093/2.m3u8
+#EXTINF:-1 group-title="卫视",东南卫视
+http://112.50.243.8/PLTV/88888888/224/3221225833/1.m3u8
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+http://liveplay-kk.rtxapp.com/live/program/live/hljwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="卫视",凤凰中文
+http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
+#EXTINF:-1 group-title="卫视",凤凰资讯
+http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1 group-title="卫视",凤凰香港
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 group-title="卫视",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+
+#EXTINF:-1 group-title="4K",BesTV4K UHD
+http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+
+#EXTINF:-1 group-title="NewTv",Newtv动作电影
+http://112.17.40.140/PLTV/88888888/224/3221226747/index.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv惊悚悬疑
+http://112.50.243.8/PLTV/88888888/224/3221225885/1.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv明星大片
+http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv家庭剧场
+http://112.50.243.8/PLTV/88888888/224/3221225882/1.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv精品大剧
+http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv古装剧场
+http://112.50.243.8/PLTV/88888888/224/3221225880/1.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv爱情喜剧
+http://112.50.243.8/PLTV/88888888/224/3221225877/1.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv军旅剧场
+http://112.50.243.8/PLTV/88888888/224/3221225887/1.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv军事评论
+http://112.17.40.140/PLTV/88888888/224/3221226658/index.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv金牌综艺
+http://112.17.40.140/PLTV/88888888/224/3221226749/index.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv精品体育
+http://112.17.40.140/PLTV/88888888/224/3221226819/index.m3u8
+#EXTINF:-1 group-title="NewTv",Newtv精品记录
+http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
+
+#EXTINF:-1 group-title="黑莓",黑莓电影
+http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓电影
+http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓动画
+http://112.50.243.8/PLTV/88888888/224/3221225878/1.m3u8
+#EXTINF:-1 group-title="黑莓",黑莓动画
+http://112.17.40.140/PLTV/88888888/224/3221226654/index.m3u8
+#EXTINF:-1 group-title="CHC",CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1  group-title="CHC",纯享4K频道
+http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+
+
 #EXTINF:-1 ,爱经典
 http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,爱都市
@@ -83,49 +223,49 @@ http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225786/1/index.m3u8?fm
 http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 ,粤语片
 http://520574.xyz/dl/youku.php?id=8019006
-#EXTINF:-1 ,电影导视
+#EXTINF:-1 group-title="电影" ,电影导视
 http://520574.xyz/dl/youku.php?id=8021972
-#EXTINF:-1 ,电影1
+#EXTINF:-1  group-title="电影" ,电影1
 http://520574.xyz/dl/youku.php?id=8022366
-#EXTINF:-1 ,电影2
+#EXTINF:-1  group-title="电影" ,电影2
 http://520574.xyz/dl/youku.php?id=8022040
-#EXTINF:-1 ,电影3
+#EXTINF:-1  group-title="电影" ,电影3
 http://520574.xyz/dl/youku.php?id=8022038
-#EXTINF:-1 ,电影4
+#EXTINF:-1  group-title="电影" ,电影4
 http://520574.xyz/dl/youku.php?id=8020381
-#EXTINF:-1 ,电影5
+#EXTINF:-1  group-title="电影" ,电影5
 http://520574.xyz/dl/youku.php?id=8020331
-#EXTINF:-1 ,电影6
+#EXTINF:-1  group-title="电影" ,电影6
 http://520574.xyz/dl/youku.php?id=8018618
-#EXTINF:-1 ,电影7
+#EXTINF:-1  group-title="电影" ,电影7
 http://520574.xyz/dl/youku.php?id=8031710
-#EXTINF:-1 ,电影8
+#EXTINF:-1  group-title="电影" ,电影8
 http://520574.xyz/dl/youku.php?id=8031706
-#EXTINF:-1 ,电影9
+#EXTINF:-1  group-title="电影" ,电影9
 http://520574.xyz/dl/youku.php?id=8031704
-#EXTINF:-1 ,电影10
+#EXTINF:-1  group-title="电影" ,电影10
 http://520574.xyz/dl/youku.php?id=8031620
-#EXTINF:-1 ,电影11
+#EXTINF:-1  group-title="电影" ,电影11
 http://520574.xyz/dl/youku.php?id=8031623
-#EXTINF:-1 ,电影13
+#EXTINF:-1  group-title="电影" ,电影13
 http://520574.xyz/dl/youku.php?id=8031592
-#EXTINF:-1 ,电影14
+#EXTINF:-1  group-title="电影" ,电影14
 http://520574.xyz/dl/youku.php?id=8031589
-#EXTINF:-1 ,电影15
+#EXTINF:-1  group-title="电影" ,电影15
 http://520574.xyz/dl/youku.php?id=8031587
-#EXTINF:-1 ,电影16
+#EXTINF:-1  group-title="电影" ,电影16
 http://520574.xyz/dl/youku.php?id=8031580
-#EXTINF:-1 ,电影17
+#EXTINF:-1  group-title="电影" ,电影17
 http://520574.xyz/dl/youku.php?id=8031574
-#EXTINF:-1 ,电影19
+#EXTINF:-1  group-title="电影" ,电影19
 http://520574.xyz/dl/youku.php?id=8027873
-#EXTINF:-1 ,电影22
+#EXTINF:-1  group-title="电影" ,电影22
 http://520574.xyz/dl/youku.php?id=8020409
-#EXTINF:-1 ,电影23
+#EXTINF:-1  group-title="电影" ,电影23
 http://520574.xyz/dl/youku.php?id=8020410
-#EXTINF:-1 ,电影24
+#EXTINF:-1  group-title="电影" ,电影24
 http://520574.xyz/dl/youku.php?id=8020408
-#EXTINF:-1 ,电影25
+#EXTINF:-1  group-title="电影" ,电影25
 http://520574.xyz/dl/youku.php?id=8035190
 #EXTINF:-1 ,希望电视
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_1200_av-p.m3u8
